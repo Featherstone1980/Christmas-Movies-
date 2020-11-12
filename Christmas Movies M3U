@@ -142,6 +142,8 @@ https://od.lk/s/NDRfMjQyMTA0MTlf/It%27s%20A%20Very%20Merry%20Muppet%20Christmas%
 #EXTINF:-1 tvg-name="Its A Wonderful Life Colorized Version (1946)" tvg-logo="" group-title="Christmas Movies",Its A Wonderful Life Colorized Version (1946)
 https://od.lk/s/NDRfMjQyMDYwNzdf/Its%20A%20Wonderful%20Life%20Colorized%20Version%20%281946%29.mp4
 
+#EXTINF:-1 tvg-name="Its Christmas time Again Charlie Brown (1992)" tvg-logo="" group-title="Christmas Movies",Its Christmas time Again Charlie Brown (1992)
+
 #EXTINF:-1 tvg-name="Jack Frost (1998)" tvg-logo="" group-title="Christmas Movies",Jack Frost (1998)
 https://od.lk/s/NDRfMjQyMDY1MjZf/Jack%20Frost%20%281998%29.mp4
 
@@ -237,8 +239,6 @@ https://od.lk/s/NDRfMjQyMDY0MTVf/The%20Night%20Before%20Christmas.mp4
 
 #EXTINF:-1 tvg-name="The Night They Saved Christmas (1984)" tvg-logo="" group-title="Christmas Movies",The Night They Saved Christmas (1984)
 https://od.lk/s/NDRfMjQyMDc0MTVf/The%20Night%20They%20Saved%20Christmas%20%281984%29.mp4
-#EXTINF:-1 tvg-name="MOVIE NAME" tvg-logo="" group-title="Christmas Movies",MOVIE NAME
-LINK HERE
 
 #EXTINF:-1 tvg-name="The Nightmare Before Christmas (1993)" tvg-logo="" group-title="Christmas Movies",The Nightmare Before Christmas (1993)
 https://od.lk/s/NDRfMjQyMDY0MTZf/The%20Nightmare%20Before%20Christmas%20%281993%29.mp4
@@ -342,7 +342,6 @@ LINK HERE
 #EXTINF:-1 tvg-name="MOVIE NAME" tvg-logo="" group-title="Christmas Movies",MOVIE NAME
 LINK HERE
 
-#EXTINF:-1 tvg-name="MOVIE NAME" tvg-logo="" group-title="Christmas Movies",MOVIE NAME
-LINK HERE
+
 
 
