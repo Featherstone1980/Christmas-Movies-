@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="A Charlie Brown Christmas (1966)" tvg-logo="https://od.lk/d/NDRfMjQyMTEwMTVf/Santa-Claus-PNG-Images.png" group-title="Christmas Movies",A Charlie Brown Christmas (1966)
+https://od.lk/s/NDRfMjQyMDY1MDlf/A%20Charlie%20Brown%20Christmas%20%281966%29.mp4
+
+#EXTINF:-1 tvg-name="A Chipmunk Christmas (1981)" tvg-logo="https://od.lk/d/NDRfMjQyMTEwMTVf/Santa-Claus-PNG-Images.png" group-title="Christmas Movies",A Chipmunk Christmas (1981)
+https://od.lk/s/NDRfMjQyMDY0NTlf/A%20Chipmunk%20Christmas%20%281981%29.mp4
+
+#EXTINF:-1 tvg-name="A Christmas Carol (2009)" tvg-logo="https://od.lk/d/NDRfMjQyMTEwMTVf/Santa-Claus-PNG-Images.png" group-title="Christmas Movies",A Christmas Carol (2009)
+https://od.lk/s/NDRfMjQyMDY1MTBf/A%20Christmas%20Carol%20%282009%29.mp4
